@@ -1,7 +1,7 @@
 # Pycalc
 
 <h1 align="center">
-    <img width="1000" alt="Pycalc" src="https://github.com/some0necoding/pycalc/blob/main/.github/pycalc_logo.png">
+    <img width="900" alt="Pycalc" src="https://github.com/some0necoding/pycalc/blob/main/.github/pycalc_logo.png">
 </h1>
 
 # Overview
